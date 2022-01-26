@@ -12,7 +12,7 @@ Middleware APIs of Loadding HTML Page.
 
 3. router/account.js
 ```
-Middleswarfe APIs of Controling Account.
+Middlesware APIs of Controling Account.
 ```
 
 4. module/dbControl.ks
