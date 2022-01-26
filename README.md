@@ -8,9 +8,9 @@
 
 ## Explain
 
-Frontend에서 GET, POST, PUT, DELETE의 4개 REST 요청이 온다고 가정
-위 4개에 응답할 Middleware API를 개발해야 하며, 각각은 모두 데이터베이스에 데이터를 처리해야하는 기능
-위 4개 API는 필요한 코드만 남겨 간소화하여, 중복으로 들어가는 데이터베이스 연결 및 요청 코드는 Module로 exports하여 사용하는 전략
+- Frontend에서 GET, POST, PUT, DELETE의 4개 REST 요청이 온다고 가정
+- 위 4개에 응답할 Middleware API를 개발해야 하며, 각각은 모두 데이터베이스에 데이터를 처리해야하는 기능
+- 위 4개 API는 필요한 코드만 남겨 간소화하여, 중복으로 들어가는 데이터베이스 연결 및 요청 코드는 Module로 exports하여 사용하는 전략
 
 ## File Description
 
