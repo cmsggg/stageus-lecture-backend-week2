@@ -1,10 +1,10 @@
 ## Project Description
 
-개발 언어 : Node.js base on Javascript
-과정 : [심화 과정] 백엔드 서버 과정
-주차 : 2주차  
-과제 : PostgreSQL 적용 실습
-목표 : pg 패키지를 이용하여 Node.js에서 설계된 PostgreSQL 데이터베이스를 이용하고, Module을 이용하여 중복 코드를 간소화하여 개발하는 과제
+- 개발 언어 : Node.js base on Javascript
+- 과정 : [심화 과정] 백엔드 서버 과정
+- 주차 : 2주차  
+- 과제 : PostgreSQL 적용 실습
+- 목표 : pg 패키지를 이용하여 Node.js에서 설계된 PostgreSQL 데이터베이스를 이용하고, Module을 이용하여 중복 코드를 간소화하여 개발하는 과제
 
 ## Explain
 
